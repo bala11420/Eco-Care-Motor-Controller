@@ -160,4 +160,4 @@ Install via Arduino IDE Library Manager:
 **Bhagathi Gangadhar**
 B.Tech ECE — RVR & JC College of Engineering, Guntur
 📧 gangadharbhagathi@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/gangadhara-bagathi-44657429a)
+🔗 [LinkedIn](https://www.linkedin.com/in/bhagathi-gangadhar-51314a369/)
